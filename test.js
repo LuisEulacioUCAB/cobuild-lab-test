@@ -15,5 +15,8 @@ b.year(); // 2012
 
 console.log('a', a);
 console.log('b', b);
+console.log('b', b);
+console.log('b', b);
+console.log('b', b);
 
 newCode("Natalia");
