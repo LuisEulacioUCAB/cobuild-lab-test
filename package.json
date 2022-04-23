@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/LuisEulacioUCAB/cobuild-lab-test/issues"
   },
-  "homepage": "https://github.com/LuisEulacioUCAB/cobuild-lab-test#readme"
+  "homepage": "https://github.com/LuisEulacioUCAB/cobuild-lab-test#readme",
+  "dependencies": {
+    "moment": "^2.29.3"
+  }
 }
