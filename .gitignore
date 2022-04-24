@@ -1,0 +1,16 @@
+.DS_Store
+.eslintcache
+.idea
+.build
+build
+coverage
+es
+lib
+lerna-debug.log
+node_modules
+npm-debug.log
+packages/local-*
+yarn-error.log
+yerna.log
+.workspace.json
+src/mocks
