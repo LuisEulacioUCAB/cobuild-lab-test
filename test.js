@@ -26,5 +26,10 @@ console.log('b', b);
 console.log('b', b);
 console.log('b', b);
 console.log('b', b);
+console.log('b', b);
+console.log('b', b);
+console.log('b', b);
+console.log('b', b);
+console.log('b', b);
 
 newCode("Natalia");
