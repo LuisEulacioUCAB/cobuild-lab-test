@@ -38,3 +38,7 @@ console.log('b', b);
 
 
 newCode("Natalia");
+newCode("Natalia");
+newCode("Natalia");
+newCode("Natalia");
+newCode("Natalia");
